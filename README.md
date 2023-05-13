@@ -12,7 +12,7 @@
 
 <!--Redes sociales-->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style ="width: 60px;"> Connect with me...
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style ="width: 30px;"> Connect with me...
 
 <a href="https://www.linkedin.com/in/francis-lucano-leonel-guzm%C3%A1n-44b311263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:francislucanoleonelguzman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -21,20 +21,20 @@
 <a href="https://t.me/FrancisLucanoLeonelGuzman" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://dev.to/francislucanoleonelguzman"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="francislucanoleonelguzman"></a>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px"> <!--Barra animada-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" style ="width: 400px;"> <!--Barra animada-->
 
 <!--Mis objetivos para este 2023-->
 
-## <img src="./img/objetivo.png" style="width: 40px"> Objectives for this 2023...
+## <img src="./img/objetivo.png" style="width: 30px"> Objectives for this 2023...
 
 - 🏆 Being able to consolidate my knowledge and apply it in projects
 - 💪 Continue studying and perfecting as a developer
 - 😍 Enjoy this 2023 with my people
 - 😏 Keep improving my English
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px"> <!--Barra animada-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" style ="width: 400px;"> <!--Barra animada-->
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... <!--Un poco mas sobre mi-->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style ="width: 30px;"> A little more about me... <!--Un poco mas sobre mi-->
 
 <!--Un poco sobre mi-->
 
