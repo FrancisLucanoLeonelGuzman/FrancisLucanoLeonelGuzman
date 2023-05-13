@@ -8,7 +8,7 @@
 
 <a href="https://app.daily.dev/francislucanoleonelguzman"><img align="right" width="200" src="https://api.daily.dev/devcards/e92585498fc540a597e322239e1911d4.png?r=t4u" alt="Francis Lucano Leonel Guzman's Dev Card"/></a> <!--Tarjeta de Daily.dev-->
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=😍+AMO+PROGRAMAR+😍;💻+Desarrollador+Front+End+💻"alt="Currently Learning Solidity"></p> <!--Textos con animacion-->
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=FF0000&size=25&center=true&vCenter=true&lines=😍+AMO+PROGRAMAR+😍;💻+Desarrollador+Front+End+💻"alt="Currently Learning Solidity"></p> <!--Textos con animacion-->
 
 <!--Redes sociales-->
 
