@@ -147,7 +147,7 @@ contract Profile {
 <summary>Expand</summary>
 <br>
     
- <p style= "align: center;"><a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn"><img src="./img/lofi.jpg" style =" width: 150px; height: 100px;"> <!--Una de las listas que mas utilizo cuando estoy desarrollando-->
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn"><img src="./img/lofi.jpg" style =" width: 150px; height: 100px;"> <!--Una de las listas que mas utilizo cuando estoy desarrollando-->
     
 
 </details>
@@ -155,7 +155,7 @@ contract Profile {
 ---
 
 <br>
-<img style= "align: center;" src="./svg/github-user-contribution.svg"> <!--Calendario con efecto snake-->
+<img src="./svg/github-user-contribution.svg"> <!--Calendario con efecto snake-->
 <br>
 
 <!--Final de la pagina-->
