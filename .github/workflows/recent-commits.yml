@@ -9,11 +9,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: GADPP
-        uses: umutphp/github-action-dynamic-profile-page@v5
+        uses: umutphp/github-action-dynamic-profile-page@v0.6.0 
         id: gadpp
         env:
           GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           github-username: 'FrancisLucanoLeonelGuzman'
           user-email: 'FrancisLucanoLeonelGuzman@hotmail.com'
-          branch: 'main'
+          commit-branch: 'main'
