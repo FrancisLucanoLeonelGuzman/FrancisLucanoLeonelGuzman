@@ -179,10 +179,11 @@ contract Profile {
 <!--Calendario con efecto snake-->
 <div align="center">
   <h3>
-    <img src="https://img.icons8.com/color/48/pacman.png" style="vertical-align: middle;" width="30px" />
-    <span style="vertical-align: middle;"> Mis contribuciones devoradas por Pac-Man </span>
+    <span style="vertical-align: middle;">
+      💪😎 Mis contribuciones 😎💪
+    </span>
   </h3>
-  
+
   <img src="https://raw.githubusercontent.com/FrancisLucanoLeonelGuzman/FrancisLucanoLeonelGuzman/output/pacman.svg" alt="Pac-Man Animation" width="100%"/>
 </div>
 
