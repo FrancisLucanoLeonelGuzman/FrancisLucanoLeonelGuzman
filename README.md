@@ -14,55 +14,38 @@
 <!-- Foto Banner -->
 <img src="./img/programming2.gif" alt="Logo" style =" width: 900px; height: 500px">
 
-<!--Tarjeta de Daily.dev-->
-<a href="https://app.daily.dev/francislucanoleonelguzman"><img align="right" width="200" src="https://api.daily.dev/devcards/e92585498fc540a597e322239e1911d4.png?r=t4u" alt="Francis Lucano Leonel Guzman's Dev Card"/></a>
-
-<!-- Encabezado con Tabla para evitar líneas horizontales -->
-<table border="0">
-  <tr>
-    <td width="70%" border="0">
-      <!-- Título -->
-      <h2>
-        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> 
-        Connect with me...
-      </h2>
-      <!-- Redes Sociales -->
-      <a href="https://www.linkedin.com/in/francis-lucano-leonel-guzm%C3%A1n-44b311263/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-      </a>
-      <a href="mailto:francislucanoleonelguzman@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" />
-      </a>
-      <a href="https://github.com/FrancisLucanoLeonelGuzman">
-        <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-      </a>
-      <a href="https://www.instagram.com/francisllguzman/">
-        <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
-      </a>
-      <a href="https://t.me/FrancisLucanoLeonelGuzman">
-        <img src="https://img.icons8.com/ios-filled/50/24A1DE/telegram-app.png" width="45" height="45" alt="Telegram" />
-      </a>
-      <a href="https://dev.to/francisllguzman">
-        <img src="https://skillicons.dev/icons?i=devto" width="45" alt="DevTo" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Connect with me -->
+<div align="left">
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" style="vertical-align: middle;">
+    <span>Connect with me...</span>
+  </h2>
+  <a href="https://www.linkedin.com/in/francis-lucano-leonel-guzm%C3%A1n-44b311263/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:francislucanoleonelguzman@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" /></a>&nbsp;
+  <a href="https://github.com/FrancisLucanoLeonelGuzman"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.instagram.com/francisllguzman/"><img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" /></a>&nbsp;
+  <a href="https://t.me/FrancisLucanoLeonelGuzman"><img src="https://img.icons8.com/ios-filled/50/24A1DE/telegram-app.png" width="45" height="45" alt="Telegram" /></a>&nbsp;
+  <a href="https://dev.to/francislucanoleonelguzman"><img src="https://skillicons.dev/icons?i=devto" width="45" alt="DevTo" /></a>
+  <a href="https://app.daily.dev/francislucanoleonelguzman">
+    <img align="right" width="150" src="https://api.daily.dev/devcards/e92585498fc540a597e322239e1911d4.png?r=t4u" style="margin-top: -200px;" />
+  </a>
+  <!-- Genero este espacio para poder dejar la carta dev.to mejor posicionada -->
+<br>
+<br>
+<br>
+<br>
+</div>
 
 <!-- Espaciado antes de la siguiente sección -->
 <br>
 
-<!--Mis objetivos para este 2026-->
-<table border="0">
-<tr>
-<td width="70%" border="0">
-<h2>
-<!-- Titulo -->
-<img src="./img/objetivo.png" style="width: 30px"> Objectives for this 2026...
-</h2>
-</td>
-</tr>
-</table>
+<!-- Mis objetivos para este 2026 -->
+<div align="left">
+  <h2>
+    <img src="./img/objetivo.png" width="30" style="vertical-align: middle;">
+    <span style="vertical-align: middle;"> Objectives for this 2026... </span>
+  </h2>
+</div>
 
 - 🏆 **Knowledge:** Consolidating my knowledge and applying it in real projects.
 - 💪 **Development:** Continue studying and perfecting as a developer.
@@ -74,7 +57,6 @@
 ---
 
 ```solidity
-// A little more about me...
 pragma solidity 20.23;
 
 contract Profile {
@@ -178,19 +160,15 @@ contract Profile {
 
 <details>
   <summary align="left">Expand</summary>
-  <br>
-  <div align="left">
-    <a href="https://www.youtube.com/watch?v=sF80I-TQiW0&t=2s">
-      <img src="https://img.youtube.com/vi/sF80I-TQiW0/maxresdefault.jpg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0px 5px 20px rgba(0,0,0,0.5); border: 2px solid #ffffff;">
-    </a>
-        <a href="https://www.youtube.com/watch?v=u0n6Fun_pY8">
-      <img src="https://img.youtube.com/vi/u0n6Fun_pY8/maxresdefault.jpg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0px 5px 20px rgba(0,0,0,0.5); border: 2px solid #ffffff;">
-    </a>
-        </a>
-        <a href="https://www.youtube.com/watch?v=Zb7tVtuuXjY&t=1000s">
-      <img src="https://img.youtube.com/vi/Zb7tVtuuXjY/maxresdefault.jpg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0px 5px 20px rgba(0,0,0,0.5); border: 2px solid #ffffff;">
-    </a>
-  </div>
+  <br />
+<div align="left">
+  <!-- Cancion 1 -->
+  <a href="https://www.youtube.com/watch?v=sF80I-TQiW0"><kbd><img src="https://images.weserv.nl/?url=https://img.youtube.com/vi/sF80I-TQiW0/maxresdefault.jpg&w=250&h=250&fit=cover&mask=circle" width="250"></kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Cancion 2 -->
+  <a href="https://www.youtube.com/watch?v=u0n6Fun_pY8"><kbd><img src="https://images.weserv.nl/?url=https://img.youtube.com/vi/u0n6Fun_pY8/maxresdefault.jpg&w=250&h=250&fit=cover&mask=circle" width="250"></kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Cancion 3 -->
+  <a href="https://www.youtube.com/watch?v=Zb7tVtuuXjY"><kbd><img src="https://images.weserv.nl/?url=https://img.youtube.com/vi/Zb7tVtuuXjY/maxresdefault.jpg&w=250&h=250&fit=cover&mask=circle" width="250"></kbd></a>
+</div>
 </details>
 
 ---
