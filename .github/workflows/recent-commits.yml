@@ -12,10 +12,10 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4 
+      - uses: actions/checkout@v4
       
       - name: Update Recent Commits
-        uses: umutphp/github-action-dynamic-profile-page@v0.6.0
+        uses: umutphp/github-action-dynamic-profile-page@v5
         with:
           GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
           COMMIT_MESSAGE: "Update recent activity"
