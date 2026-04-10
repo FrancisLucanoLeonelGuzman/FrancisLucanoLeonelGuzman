@@ -6,7 +6,7 @@
 </div>
 
 <!-- Titulo Principal (con animacion) -->
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=FF0000&size=25&center=true&vCenter=true&lines=😍+I+LOVE+PROGRAMMING+😍;💻+FRONT+END+DEVELOPER+💻"alt="Currently Learning Solidity"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=FF0000&size=25&center=true&vCenter=true&lines=😍+I+LOVE+PROGRAMMING+😍;👨🏻‍💻+DEVELOPER+👨🏻‍💻"alt="Currently Learning Solidity"></p>
 
 <!-- Espaciado antes de la siguiente sección -->
 <br>
