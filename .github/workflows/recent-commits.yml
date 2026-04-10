@@ -1,24 +1,19 @@
-name: Recent Commits
-
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 */1 * * *'
-  workflow_dispatch:
+name: Update GitHub Profile Page
+on: [push]
 
 jobs:
-  update-readme:
+  gadpp_job:
     runs-on: ubuntu-latest
+    name: Update GitHub Profile Page
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Update Recent Commits
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: GADPP
         uses: umutphp/github-action-dynamic-profile-page@v5
+        id: gadpp
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github-username: 'FrancisLucanoLeonelGuzman'
           user-email: 'FrancisLucanoLeonelGuzman@hotmail.com'
-        env:
-          GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
-
