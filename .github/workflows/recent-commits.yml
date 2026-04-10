@@ -7,13 +7,14 @@ jobs:
     name: Update GitHub Profile Page
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
       - name: GADPP
-        uses: umutphp/github-action-dynamic-profile-page@v0.6.0 
+        uses: umutphp/github-action-dynamic-profile-page@master 
         id: gadpp
         env:
           GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           github-username: 'FrancisLucanoLeonelGuzman'
           user-email: 'FrancisLucanoLeonelGuzman@hotmail.com'
-          commit-branch: 'main'
+          branch: 'main'
