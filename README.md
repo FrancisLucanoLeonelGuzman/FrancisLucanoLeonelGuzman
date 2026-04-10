@@ -86,16 +86,13 @@ contract Profile {
 }
 
 ```
-<!-- Espaciado antes de la siguiente sección -->
-<br>
-
+---
 <!--Sobre mi-->
 ### <h2 align="center">🤹 About me 🤹</h2>
 
 👋 ¡Hello! 👋 I'm **Francis Lucano Leonel Guzman**, I'm 25 years old and I live in La Rioja, Argentina. I am currently in my second year of **Systems Engineering at the National University of La Rioja**. I started my coding journey back in 2022. I began with **JavaScript**, then moved on to **Java** and **PHP**. I’m passionate about what I do and I always try to go all the way to achieve my goal. I make sure that everything I build isn’t just functional, but also efficient and genuinely useful. Thanks for stopping by! If you want to talk about a project or just say hi, feel free to reach out. Hope you have a great day! 😊❤
 
-<!-- Espaciado antes de la siguiente sección -->
-<br>
+---
 
 <!--Mis skills como desarrollador-->
 <div align="center">
@@ -109,8 +106,7 @@ contract Profile {
   </a>
 </div>
 
-<!-- Espaciado antes de la siguiente sección -->
-<br>
+---
 
 <!--Mis estadisticas de GitHub-->
 ### <img src="./img/estadisticas.png" style =" width: 30px;"> Github Stats
@@ -178,7 +174,7 @@ contract Profile {
 <div align="center">
   <h3>
     <span style="vertical-align: middle;">
-      💪😎 Mis contribuciones 😎💪
+      💪😎 My Contributions 😎💪
     </span>
   </h3>
 
