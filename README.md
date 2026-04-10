@@ -207,8 +207,8 @@ contract Profile {
   <img src="https://raw.githubusercontent.com/FrancisLucanoLeonelGuzman/FrancisLucanoLeonelGuzman/output/pacman.svg" alt="Pac-Man Animation" width="100%"/>
 </div>
 
-  <!-- START_gadpp -->
-  <!-- END_gadpp -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <!--
 **FrancisLucanoLeonelGuzman/FrancisLucanoLeonelGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
