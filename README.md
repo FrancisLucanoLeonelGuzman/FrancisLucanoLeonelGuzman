@@ -34,6 +34,7 @@
 <br>
 <br>
 <br>
+<br>
 </div>
 
 <!-- Espaciado antes de la siguiente sección -->
@@ -172,9 +173,6 @@ contract Profile {
 </details>
 
 ---
-
-<!-- Espaciado antes de la siguiente sección -->
-<br>
 
 <!--Calendario con efecto snake-->
 <div align="center">
