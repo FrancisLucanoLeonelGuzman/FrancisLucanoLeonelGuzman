@@ -1,42 +1,77 @@
-<!--Encabezado-->
+<!-- Encabezado -->
 
-![Visitor Count](https://profile-counter.glitch.me/FrancisLucanoLeonelGuzman/count.svg) <!--Numero de los visitantes al perfil-->
+<!-- Numero de los visitantes al perfil -->
+<div align="Left">
+  <img src="https://komarev.com/ghpvc/?username=FrancisLucanoLeonelGuzman&color=ff0000&style=for-the-badge&logo=github&label=visitors" alt="Contador" />
+</div>
 
-<div style="text-align: right"></div> <!--Estilo-->
+<!-- Titulo Principal (con animacion) -->
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=FF0000&size=25&center=true&vCenter=true&lines=😍+I+LOVE+PROGRAMMING+😍;💻+FRONT+END+DEVELOPER+💻"alt="Currently Learning Solidity"></p>
 
-<img src="./img/programming.gif" alt="Logo" style =" width: 900px; height: 500px"> <!--Logo-->
+<!-- Espaciado antes de la siguiente sección -->
+<br>
 
-<a href="https://app.daily.dev/francislucanoleonelguzman"><img align="right" width="200" src="https://api.daily.dev/devcards/e92585498fc540a597e322239e1911d4.png?r=t4u" alt="Francis Lucano Leonel Guzman's Dev Card"/></a> <!--Tarjeta de Daily.dev-->
+<!-- Foto Banner -->
+<img src="./img/programming2.gif" alt="Logo" style =" width: 900px; height: 500px">
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=FF0000&size=25&center=true&vCenter=true&lines=😍+I+LOVE+PROGRAMMING+😍;💻+FRONT+END+DEVELOPER+💻"alt="Currently Learning Solidity"></p> <!--Textos con animacion-->
+<!--Tarjeta de Daily.dev-->
+<a href="https://app.daily.dev/francislucanoleonelguzman"><img align="right" width="200" src="https://api.daily.dev/devcards/e92585498fc540a597e322239e1911d4.png?r=t4u" alt="Francis Lucano Leonel Guzman's Dev Card"/></a>
 
-<!--Redes sociales-->
+<!-- Encabezado con Tabla para evitar líneas horizontales -->
+<table border="0">
+  <tr>
+    <td width="70%" border="0">
+      <!-- Título -->
+      <h2>
+        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> 
+        Connect with me...
+      </h2>
+      <!-- Redes Sociales -->
+      <a href="https://www.linkedin.com/in/francis-lucano-leonel-guzm%C3%A1n-44b311263/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+      </a>
+      <a href="mailto:francislucanoleonelguzman@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" />
+      </a>
+      <a href="https://github.com/FrancisLucanoLeonelGuzman">
+        <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+      </a>
+      <a href="https://www.instagram.com/francisllguzman/">
+        <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
+      </a>
+      <a href="https://t.me/FrancisLucanoLeonelGuzman">
+        <img src="https://img.icons8.com/ios-filled/50/24A1DE/telegram-app.png" width="45" height="45" alt="Telegram" />
+      </a>
+      <a href="https://dev.to/francisllguzman">
+        <img src="https://skillicons.dev/icons?i=devto" width="45" alt="DevTo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style ="width: 30px;"> Connect with me...
+<!-- Espaciado antes de la siguiente sección -->
+<br>
 
-<a href="https://www.linkedin.com/in/francis-lucano-leonel-guzm%C3%A1n-44b311263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:francislucanoleonelguzman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/FrancisLucanoLeonelGuzman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.instagram.com/francis.guzman_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://t.me/FrancisLucanoLeonelGuzman" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://dev.to/francislucanoleonelguzman"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="francislucanoleonelguzman"></a>
+<!--Mis objetivos para este 2026-->
+<table border="0">
+<tr>
+<td width="70%" border="0">
+<h2>
+<!-- Titulo -->
+<img src="./img/objetivo.png" style="width: 30px"> Objectives for this 2026...
+</h2>
+</td>
+</tr>
+</table>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" style ="width: 400px;"> <!--Barra animada-->
+- 🏆 **Knowledge:** Consolidating my knowledge and applying it in real projects.
+- 💪 **Development:** Continue studying and perfecting as a developer.
+- 😍 **Connection:** Enjoying this 2026 with my people.
+- 😏 **English:** Keep improving my English and technical communication.
 
-<!--Mis objetivos para este 2023-->
-
-## <img src="./img/objetivo.png" style="width: 30px"> Objectives for this 2023...
-
-- 🏆 Being able to consolidate my knowledge and apply it in projects
-- 💪 Continue studying and perfecting as a developer
-- 😍 Enjoy this 2023 with my people
-- 😏 Keep improving my English
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" style ="width: 400px;"> <!--Barra animada-->
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style ="width: 30px;"> A little more about me... <!--Un poco mas sobre mi-->
-
-<!--Un poco sobre mi-->
+<!--Un poco mas sobre mi-->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style ="width: 30px;"> A little more about me... 
+---
 
 ```solidity
 // A little more about me...
@@ -55,6 +90,7 @@ contract Profile {
             "PHP",
             "HTML",
             "CSS"
+            "C"
         ];
 
         return skills;
@@ -62,45 +98,38 @@ contract Profile {
 
     function fun() public view returns (string memory) {
         return
-            "if you can imagine it can be programmed";
+            "If you can imagine it, you can program it";
     }
 }
 
 ```
-
----
+<!-- Espaciado antes de la siguiente sección -->
+<br>
 
 <!--Sobre mi-->
 ### <h2 align="center">🤹 About me 🤹</h2>
 
-👋 ¡Hello! 👋 I am Francis Lucano Leonel Guzman, I am 22 years old, I currently live in Argentina (La Rioja capital). I am a JavaScript and PHP developer. 2022 I started studying development in Java and PHP. Developed in PHP for a company in California. I am very constant and passionate. Which always helps me go all the way in the things I do. Thanks to this I have learned to pay attention to the needs to develop in the most efficient and useful way. Thanks for reading anything you want to know about me don't hesitate to ask me. I hope you have a nice day and good luck. 😊❤
+👋 ¡Hello! 👋 I'm **Francis Lucano Leonel Guzman**, I'm 25 years old and I live in La Rioja, Argentina. I am currently in my second year of **Systems Engineering at the National University of La Rioja**. I started my coding journey back in 2022. I began with **JavaScript**, then moved on to **Java** and **PHP**. I’m passionate about what I do and I always try to go all the way to achieve my goal. I make sure that everything I build isn’t just functional, but also efficient and genuinely useful. Thanks for stopping by! If you want to talk about a project or just say hi, feel free to reach out. Hope you have a great day! 😊❤
 
----
+<!-- Espaciado antes de la siguiente sección -->
+<br>
 
 <!--Mis skills como desarrollador-->
-
-### <h2 align="center"> <img src="./img/skills.png" style="width: 30px"> My Skill Set <img src="./img/skills.png" style="width: 30px"> </h2>
-
 <div align="center">
-<br>
-
-<img style="margin: 10px" background-color="white" src="./img/html5.svg" alt="html5" height="50" />  
-<img style="margin: 10px" src="./img/css3-alt.svg" alt="css3" height="50" />
-<img style="margin: 10px" src="./img/js.svg" alt="js" height="50" />
-<img style="margin: 10px" src="./img/java.svg" alt="java" height="50" />
-<img style="margin: 10px" src="./img/php.svg" alt="php" height="50" />
-<img style="margin: 10px" src="./img/laravel.svg" alt="laravel" height="50" />
-<img style="margin: 10px" src="./img/github.svg" alt="github" height="50">
-<img style="margin: 10px" src="./img/git.svg" alt="git" height="50">
-
+  <h2>
+    <img src="https://img.icons8.com/fluency/48/brain.png" style="vertical-align: middle;" width="32" />
+    <span style="vertical-align: middle;"> My Skill Set </span>
+    <img src="https://img.icons8.com/fluency/48/brain.png" style="vertical-align: middle;" width="32" />
+  </h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,c,php,laravel,github,git&perline=9" />
+  </a>
 </div>
 
+<!-- Espaciado antes de la siguiente sección -->
 <br>
 
----
-
 <!--Mis estadisticas de GitHub-->
-
 ### <img src="./img/estadisticas.png" style =" width: 30px;"> Github Stats
 
 <details>
@@ -114,7 +143,6 @@ contract Profile {
 ---
 
 <!--Estadisticas Github Streak-->
-
 ### 🔥 GitHub Streak
 
 <details>
@@ -128,40 +156,57 @@ contract Profile {
 ---
 
 <!--Mis trofeos-->
-
-### 🏆 GitHub Trophy
-
+### 🚀 Recent Activity
 <details>
-<summary>Expand</summary>
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FrancisLucanoLeonelGuzman&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-</details>
-
----
-<!--Mi lista de Spotify-->
-### <img src="./img/spti.png" style =" width: 30px;"> My Spotify
-
-<details>
-<summary>Expand</summary>
-<br>
-    
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn"><img src="./img/lofi.jpg" style =" width: 150px; height: 100px;"> <!--Una de las listas que mas utilizo cuando estoy desarrollando-->
-    
-
+  <summary>Expand</summary>
+  <br />
+  
+  <!-- START_gadpp -->
+  <!-- END_gadpp -->
+  
 </details>
 
 ---
 
+<!--Mi música de YouTube-->
+<div align="left">
+  <h3>
+    <img src="https://img.icons8.com/color/48/youtube-play.png" style="vertical-align: middle;" width="20px" />
+    <span style="vertical-align: middle;"> My YouTube Playlist </span>
+  </h3>
+</div>
+
+<details>
+  <summary align="left">Expand</summary>
+  <br>
+  <div align="left">
+    <a href="https://www.youtube.com/watch?v=sF80I-TQiW0&t=2s">
+      <img src="https://img.youtube.com/vi/sF80I-TQiW0/maxresdefault.jpg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0px 5px 20px rgba(0,0,0,0.5); border: 2px solid #ffffff;">
+    </a>
+        <a href="https://www.youtube.com/watch?v=u0n6Fun_pY8">
+      <img src="https://img.youtube.com/vi/u0n6Fun_pY8/maxresdefault.jpg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0px 5px 20px rgba(0,0,0,0.5); border: 2px solid #ffffff;">
+    </a>
+        </a>
+        <a href="https://www.youtube.com/watch?v=Zb7tVtuuXjY&t=1000s">
+      <img src="https://img.youtube.com/vi/Zb7tVtuuXjY/maxresdefault.jpg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0px 5px 20px rgba(0,0,0,0.5); border: 2px solid #ffffff;">
+    </a>
+  </div>
+</details>
+
+---
+
+<!-- Espaciado antes de la siguiente sección -->
 <br>
-<img src="./svg/github-user-contribution.svg"> <!--Calendario con efecto snake-->
-<br>
 
-<!--Final de la pagina-->
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-
+<!--Calendario con efecto snake-->
+<div align="center">
+  <h3>
+    <img src="https://img.icons8.com/color/48/pacman.png" style="vertical-align: middle;" width="30px" />
+    <span style="vertical-align: middle;"> Mis contribuciones devoradas por Pac-Man </span>
+  </h3>
+  
+  <img src="https://raw.githubusercontent.com/FrancisLucanoLeonelGuzman/FrancisLucanoLeonelGuzman/output/pacman.svg" alt="Pac-Man Animation" width="100%"/>
+</div>
 <!--
 **FrancisLucanoLeonelGuzman/FrancisLucanoLeonelGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

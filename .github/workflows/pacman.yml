@@ -1,0 +1,33 @@
+name: generate-snake
+
+on:
+  # Se ejecuta automáticamente cada 24 horas
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Nos permite correrlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+  
+  # Se ejecuta cada vez que subís algo a la rama main
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate-pacman-svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: FrancisLucanoLeonelGuzman
+          outputs: |
+            dist/pacman.svg?color_snake=yellow&color_dots=#bfbdbe,#d139e3,#2404e3,#e30404
+
+      - name: push-to-output-branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
