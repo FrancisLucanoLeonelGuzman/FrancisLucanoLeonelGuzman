@@ -17,8 +17,8 @@ jobs:
       - name: Update Recent Commits
         uses: umutphp/github-action-dynamic-profile-page@v5
         with:
+          github-username: 'FrancisLucanoLeonelGuzman'
+          user-email: 'FrancisLucanoLeonelGuzman@hotmail.com'
+        env:
           GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
-          COMMIT_MESSAGE: "Update recent activity"
-          COMMIT_NAME: "FrancisLucanoLeonelGuzman"
-          COMMIT_EMAIL: "FrancisLucanoLeonelGuzman@hotmail.com"
 
