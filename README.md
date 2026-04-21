@@ -20,12 +20,18 @@
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" style="vertical-align: middle;">
     <span>Connect with me...</span>
   </h2>
-  <a href="https://www.linkedin.com/in/francis-lucano-leonel-guzm%C3%A1n-44b311263/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:francislucanoleonelguzman@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" /></a>&nbsp;
-  <a href="https://github.com/FrancisLucanoLeonelGuzman"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.instagram.com/francisllguzman/"><img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" /></a>&nbsp;
-  <a href="https://t.me/FrancisLucanoLeonelGuzman"><img src="https://img.icons8.com/ios-filled/50/24A1DE/telegram-app.png" width="45" height="45" alt="Telegram" /></a>&nbsp;
-  <a href="https://dev.to/francislucanoleonelguzman"><img src="https://skillicons.dev/icons?i=devto" width="45" alt="DevTo" /></a>
+
+  <!-- Arregle el problema que hacia que los iconos están mal posicionados -->
+<div style="white-space: nowrap;">
+    <a href="mailto:francislucanoleonelguzman@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/francis-lucano-leonel-guzm%C3%A1n-44b311263/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://www.instagram.com/francisllguzman/"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /></a>&nbsp;
+    <a href="https://t.me/FrancisLucanoLeonelGuzman"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" alt="Telegram" /></a>&nbsp;
+    <a href="https://github.com/FrancisLucanoLeonelGuzman"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>&nbsp;
+    <a href="https://dev.to/francislucanoleonelguzman"><img src="https://skillicons.dev/icons?i=devto" width="40" alt="DevTo" /></a>
+  </div>
+
+<!-- Card daily -->
   <a href="https://app.daily.dev/francislucanoleonelguzman">
     <img align="right" width="150" src="https://api.daily.dev/devcards/e92585498fc540a597e322239e1911d4.png?r=t4u" style="margin-top: -200px;" />
   </a>
@@ -134,14 +140,13 @@ contract Profile {
 
 ---
 
-<!--Mis trofeos-->
-### 🚀 Recent Activity
+<!-- github readme stats -->
+### 🚀 GitHub Readme Stats
 <details>
   <summary>Expand</summary>
   <br />
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLucanoLeonelGuzman&show_icons=true&theme=radical)
   
 </details>
 
