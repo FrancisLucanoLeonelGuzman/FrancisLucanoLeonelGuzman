@@ -148,7 +148,7 @@ contract Profile {
   <summary>Expand</summary>
   <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLucanoLeonelGuzman&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FrancisLucanoLeonelGuzman)](https://git.io/streak-stats)
   
 </details>
 
@@ -179,13 +179,12 @@ contract Profile {
 
 <!--Calendario con efecto snake-->
 <div align="center">
-  <h3>
-    <span style="vertical-align: middle;">
-      💪😎 My Contributions 😎💪
-    </span>
-  </h3>
-
-  <img src="https://raw.githubusercontent.com/FrancisLucanoLeonelGuzman/FrancisLucanoLeonelGuzman/output/pacman.svg" alt="Pac-Man Animation" width="100%"/>
+  <h3>💪😎 My Contributions 😎💪</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrancisLucanoLeonelGuzman/FrancisLucanoLeonelGuzman/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FrancisLucanoLeonelGuzman/FrancisLucanoLeonelGuzman/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/FrancisLucanoLeonelGuzman/FrancisLucanoLeonelGuzman/output/github-snake.svg" />
+  </picture>
 </div>
 
 <!--
