@@ -142,13 +142,16 @@ contract Profile {
 
 ---
 
-<!-- github readme stats -->
-### 🚀 GitHub Readme Stats
+<!-- github Main Projects -->
+### 🚀 Main Projects
 <details>
   <summary>Expand</summary>
   <br />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FrancisLucanoLeonelGuzman)](https://git.io/streak-stats)
+  
+  | Project | Description | Tech Stack |
+  | :--- | :--- | :--- |
+  | [**Text Encryptor**](https://github.com/FrancisLucanoLeonelGuzman/Encriptador-de-texto-Challenge-Oracle-.git) | Text Encryptor | HTML, CSS, JAVASCRIPT |
+  | [**Restaurant Naindo**](https://github.com/FrancisLucanoLeonelGuzman/Restaurante-Naindo.git) | Professional interactive menu and landing page for food services | HTML, CSS, JAVASCRIPT |
   
 </details>
 
